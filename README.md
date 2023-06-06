@@ -1,6 +1,6 @@
 Andy Sul's Technical Writing Portfolio
 
-Here is the PDF Link to my resume as well: [Resume.pdf](https://drive.google.com/file/d/1IV3Gj5OUti2hemsL6e5UnUqQQaWb0y3f/view?usp=sharing)
+Here is a link to my resume: [Resume](https://github.com/skym97/Portfolio/blob/main/Resume.pdf)
 
 ***Table of Contents***
 
