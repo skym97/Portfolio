@@ -1,8 +1,6 @@
 Andy Sul's Technical Writing Portfolio
 
-Here is a PDF link to thetechnical writing portfolio if preferable: [Portfolio.pdf](https://drive.google.com/file/d/1IV3Gj5OUti2hemsL6e5UnUqQQaWb0y3f/view?usp=sharing)
-
-Additionally, here is a PDF Link to my resume as well: [Resume.pdf](https://drive.google.com/file/d/1IV3Gj5OUti2hemsL6e5UnUqQQaWb0y3f/view?usp=sharing)
+Here is the PDF Link to my resume as well: [Resume.pdf](https://drive.google.com/file/d/1IV3Gj5OUti2hemsL6e5UnUqQQaWb0y3f/view?usp=sharing)
 
 ***Table of Contents***
 
