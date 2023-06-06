@@ -4,19 +4,19 @@ Here is the PDF Link to my resume as well: [Resume.pdf](https://drive.google.com
 
 ***Table of Contents***
 
-[How-to guide](https://drive.google.com/file/d/1TWjv5tR5DpwwHxoChfkpdMAY_7O5ha4S/view?usp=sharing)										
+[How-to guide](https://github.com/skym97/Portfolio/blob/main/How%20to%20Guide.pdf)									
 
 A how-to guide I wrote and created for my technical writing course on how to migrate notes from the Samsung Notes App.
 
-[Quick Reference Guide](https://drive.google.com/file/d/1ayZ3sMa3xTBBdTkymcvbXSn-piXBQnB7/view?usp=sharing) 								
+[Quick Reference Guide](https://github.com/skym97/Portfolio/blob/main/Quick%20Reference%20Guide.pdf)								
 
 A quick reference guide I was a part of with two other group members in my technical writing course. For this guide, I was the editor, while other group members wrote and designed the document. The deliverable covers AI in education. 
 
-[Standard Operating Procedure](https://drive.google.com/file/d/1RUrLbfYaqEXIIwgdLW9Q316UL-NM2qVs/view?usp=sharing)
+[Standard Operating Procedure](https://github.com/skym97/Portfolio/blob/main/Standard%20Operating%20Procedure.pdf)
 
 A standard operating procedure for a fictional tech company that was written by one of my group members in my technical writing course. I was the production designer for this project as I created the actual document. Additionally, I was in charge of the look and layout of the manual. The fictional company logo was something I created as well. The SOP covers product defect software. Another group member served as the editor.
 
-[Release Notes](https://drive.google.com/file/d/1yv2dBPRHv_SAUwGWOV-SXnZTzJLQwT9O/view?usp=sharing)
+[Release Notes](https://github.com/skym97/Portfolio/blob/main/Release%20Note.pdf)
 
 A release note that I wrote for the same fictional company used in the previous manual (listed above) for my technical writing course. The release note covers new features and bug fixes to the fictional product defect software used in the SOP. My other group members served as the editor and the production designer. 
 
