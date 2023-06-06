@@ -4,7 +4,7 @@ Here is a link to my resume: [Resume](https://github.com/skym97/Portfolio/blob/m
 
 ***Table of Contents***
 
-*[How-to guide](https://github.com/skym97/Portfolio/blob/main/How%20to%20Guide.pdf)*									
+*[How-to Guide](https://github.com/skym97/Portfolio/blob/main/How%20to%20Guide.pdf)*									
 
 A how-to guide I wrote and created for my technical writing course on how to migrate notes from the Samsung Notes App.
 
