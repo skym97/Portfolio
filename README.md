@@ -26,6 +26,6 @@ Three content pieces I created and published on Medium that I did for leisure. T
 
 * ["The Mischaracterization of Rotten Tomatoes"](https://asul.medium.com/the-mischaracterization-of-rotten-tomatoes-3918f1669a29)
 
-* ["drivers license” Hitting #1 Surprised Me"](https://asul.medium.com/why-drivers-license-hitting-1-surprised-me-d872c23f5d4)
+* ["'drivers license' Hitting #1 Surprised Me"](https://asul.medium.com/why-drivers-license-hitting-1-surprised-me-d872c23f5d4)
 
 * ["Sports Betting Advertisements Are Growing and Here to Stay"](https://asul.medium.com/sports-betting-advertisements-are-growing-and-here-to-stay-913ac8b58065)
