@@ -24,8 +24,8 @@ A release note that I wrote for the same fictional company used in the previous 
 
 Three content pieces I created and published on Medium that I did for leisure. The pieces cover Rotten Tomatoes, Olivia Rodrigo’s “driver’s license” and how it reflects culture, and the growth of sports gambling advertising. 
 
-* ["The Mischaracterization of Rotten Tomatoes"](https://asul.medium.com/the-mischaracterization-of-rotten-tomatoes-3918f1669a29)
+* *["The Mischaracterization of Rotten Tomatoes"](https://asul.medium.com/the-mischaracterization-of-rotten-tomatoes-3918f1669a29)*
 
-* ["'drivers license' Hitting #1 Surprised Me"](https://asul.medium.com/why-drivers-license-hitting-1-surprised-me-d872c23f5d4)
+* *["'drivers license' Hitting #1 Surprised Me"](https://asul.medium.com/why-drivers-license-hitting-1-surprised-me-d872c23f5d4)*
 
-* ["Sports Betting Advertisements Are Growing and Here to Stay"](https://asul.medium.com/sports-betting-advertisements-are-growing-and-here-to-stay-913ac8b58065)
+* *["Sports Betting Advertisements Are Growing and Here to Stay"](https://asul.medium.com/sports-betting-advertisements-are-growing-and-here-to-stay-913ac8b58065)*
