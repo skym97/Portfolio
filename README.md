@@ -20,7 +20,7 @@ A standard operating procedure for a fictional tech company that was written by 
 
 A release note that I wrote for the same fictional company used in the previous manual (listed above) for my technical writing course. The release note covers new features and bug fixes to the fictional product defect software used in the SOP. My other group members served as the editor and the production designer. 
 
-*[Knowledge Base Article](https://vandevan4.wixsite.com/tech-writing/creating-release-notes)
+*[Knowledge Base Article](https://vandevan4.wixsite.com/tech-writing/creating-release-notes)*
 
 A knowledge base article that I wrote in a group with 5 other members where we created a knowledge base for aspiring technical writers. For this project we created a persona to write these articles for and put thogether 6 different articles to be displayed on this website.
 
