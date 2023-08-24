@@ -1,8 +1,10 @@
 Andy Sul's Technical Writing Portfolio
 
-Here is a link to my resume: [Resume](https://github.com/skym97/Portfolio/blob/main/Resume.pdf)
+Note: All hyperlinks are *italicized*
 
-***Table of Contents***
+Here is a link to my resume: *[Resume](https://github.com/skym97/Portfolio/blob/main/Resume.pdf)*
+
+**Table of Contents**
 
 *[How-to Guide](https://github.com/skym97/Portfolio/blob/main/How%20to%20Guide.pdf)*									
 
@@ -24,7 +26,7 @@ A release note that I wrote for the same fictional company used in the previous 
 
 A knowledge base article that I wrote in a group with 5 other members where we created a knowledge base for aspiring technical writers. For this project we created a persona to write these articles for and put thogether 6 different articles to be displayed on this website. For my knowledge base article, I wrote about creating release notes.
 
-*Content Writing Articles*								
+Content Writing Articles								
 
 Three content pieces I created and published on Medium that I did for leisure. The pieces cover Rotten Tomatoes, Olivia Rodrigo’s “driver’s license” and how it reflects culture, and the growth of sports gambling advertising. 
 
