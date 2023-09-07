@@ -1,4 +1,4 @@
-Andy Sul's Technical Writing Portfolio
+# Andy Sul's Technical Writing Portfolio
 
 Note: All hyperlinks are *italicized*
 
