@@ -6,7 +6,7 @@ Here is a link to my resume: *[Resume](https://github.com/skym97/Portfolio/blob/
 
 **Table of Contents**
 
-The works showcased below were created apart of my technical writing course with the University of Washington's Professional Continuning Education Program. The program went from January 2023 to August 2023. Upon completion a certificate was issued for "Professional Technical Writing".
+The works showcased below were created apart while taking the Professional Technical Writing course at the University of Washington's Professional Continuning Education Program. The program started on January 2023 and ended in August 2023. Upon completion a certificate was issued for "Professional Technical Writing".
 
 *[How-to Guide](https://github.com/skym97/Portfolio/blob/main/How%20to%20Guide.pdf)*									
 
@@ -39,6 +39,8 @@ Three content pieces I created and published on Medium that I did for leisure. T
 * *["'drivers license' Hitting #1 Surprised Me"](https://asul.medium.com/why-drivers-license-hitting-1-surprised-me-d872c23f5d4)*
 
 * *["Sports Betting Advertisements Are Growing and Here to Stay"](https://asul.medium.com/sports-betting-advertisements-are-growing-and-here-to-stay-913ac8b58065)*
+
+-------------------------
 
 freeCodeCamp 
 
