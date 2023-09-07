@@ -35,3 +35,9 @@ Three content pieces I created and published on Medium that I did for leisure. T
 * *["'drivers license' Hitting #1 Surprised Me"](https://asul.medium.com/why-drivers-license-hitting-1-surprised-me-d872c23f5d4)*
 
 * *["Sports Betting Advertisements Are Growing and Here to Stay"](https://asul.medium.com/sports-betting-advertisements-are-growing-and-here-to-stay-913ac8b58065)*
+
+freeCodeCamp 
+
+I completed the Responsive Web Design course on freeCodeCamp.org. The course covers HTML and CSS.
+
+* *[Certificate and Projects](https://www.freecodecamp.org/certification/skma97/responsive-web-design)*
