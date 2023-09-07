@@ -6,6 +6,8 @@ Here is a link to my resume: *[Resume](https://github.com/skym97/Portfolio/blob/
 
 **Table of Contents**
 
+The works showcased below were created apart of my technical writing course with the University of Washington's Professional Continuning Education Program. The program went from January 2023 to August 2023. Upon completion a certificate was issued for "Professional Technical Writing".
+
 *[How-to Guide](https://github.com/skym97/Portfolio/blob/main/How%20to%20Guide.pdf)*									
 
 A how-to guide I wrote and created for my technical writing course on how to migrate notes from the Samsung Notes App.
@@ -25,6 +27,8 @@ A release note that I wrote for the same fictional company used in the previous 
 *[Knowledge Base Article](https://vandevan4.wixsite.com/tech-writing/creating-release-notes)*
 
 A knowledge base article that I wrote in a group with 5 other members where we created a knowledge base for aspiring technical writers. For this project we created a persona to write these articles for and put thogether 6 different articles to be displayed on this website. For my knowledge base article, I wrote about creating release notes.
+
+-------------------------
 
 Content Writing Articles								
 
