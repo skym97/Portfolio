@@ -4,7 +4,18 @@ Note: All hyperlinks are *italicized*
 
 Here is a link to my resume: *[Resume](https://github.com/skym97/Portfolio/blob/main/Resume.pdf)*
 
+-------------------------
+
 ## **Table of Contents**
+
+1. [University of Washington Professional Continuing Education Program in Professional Technical Writing](### University of Washington's Professional Continuning Education Program in Professional Technical Writing)
+2. [Udemy](### Udemy)
+3. [freeCodeCamp](### freeCodeCamp)
+4. [Content Writing Articles](### Content Writing Articles)
+
+-------------------------
+
+### University of Washington's Professional Continuning Education Program in Professional Technical Writing 
 
 The works showcased below were created apart while taking the Professional Technical Writing course at the University of Washington's Professional Continuning Education Program. The program started on January 2023 and ended in August 2023. Upon completion a certificate was issued for "Professional Technical Writing".
 
@@ -30,7 +41,7 @@ A knowledge base article that I wrote in a group with 5 other members where we c
 
 -------------------------
 
-Udemy
+### Udemy
 
 I completed a technical writing course on Udemy called Learn API Technical Writing: JSON and XML for Writers (by Peter Gruenbaum). The two documentation exercises that are a part of the program are showcased below. 
 
@@ -40,7 +51,7 @@ I completed a technical writing course on Udemy called Learn API Technical Writi
 
 -------------------------
 
-freeCodeCamp 
+### freeCodeCamp 
 
 I completed the Responsive Web Design course on freeCodeCamp.org. The course covers HTML and CSS.
 
@@ -48,7 +59,7 @@ I completed the Responsive Web Design course on freeCodeCamp.org. The course cov
 
 -------------------------
 
-Content Writing Articles								
+### Content Writing Articles								
 
 Three content pieces I created and published on Medium that I did for leisure. The pieces cover Rotten Tomatoes, Olivia Rodrigo’s “driver’s license” and how it reflects culture, and the growth of sports gambling advertising. 
 
