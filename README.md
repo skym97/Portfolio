@@ -17,7 +17,7 @@ Here is a link to my resume: *[Resume](https://github.com/skym97/Portfolio/blob/
 
 ### University of Washington's Professional Continuning Education Program in Professional Technical Writing 
 
-The works showcased below were created apart while taking the Professional Technical Writing course at the University of Washington's Professional Continuning Education Program. The program started on January 2023 and ended in August 2023. Upon completion a certificate was issued for "Professional Technical Writing".
+The works showcased below were created while taking apart of the Professional Technical Writing course at the University of Washington's Professional Continuning Education Program. The program started on January 2023 and ended in August 2023. Upon completion a certificate was issued for "Professional Technical Writing".
 
 *[How-to Guide](https://github.com/skym97/Portfolio/blob/main/How%20to%20Guide.pdf)*									
 
