@@ -30,6 +30,24 @@ A knowledge base article that I wrote in a group with 5 other members where we c
 
 -------------------------
 
+Udemy
+
+I completed a technical writing course on Udemy called Learn API Technical Writing: JSON and XML for Writers (by Peter Gruenbaum). The two documentation exercises that are a part of the program are showcased below. 
+
+* *[JSON Documentation Exercise](https://github.com/skym97/Portfolio/blob/main/JSON%20Documentation%20Exercise.pdf)*
+
+* *[XML Documentation Exercise](https://github.com/skym97/Portfolio/blob/main/XML%20Documentation%20Exercise.pdf)*
+
+-------------------------
+
+freeCodeCamp 
+
+I completed the Responsive Web Design course on freeCodeCamp.org. The course covers HTML and CSS.
+
+* *[Certificate and Projects](https://www.freecodecamp.org/certification/skma97/responsive-web-design)*
+
+-------------------------
+
 Content Writing Articles								
 
 Three content pieces I created and published on Medium that I did for leisure. The pieces cover Rotten Tomatoes, Olivia Rodrigo’s “driver’s license” and how it reflects culture, and the growth of sports gambling advertising. 
@@ -41,9 +59,3 @@ Three content pieces I created and published on Medium that I did for leisure. T
 * *["Sports Betting Advertisements Are Growing and Here to Stay"](https://asul.medium.com/sports-betting-advertisements-are-growing-and-here-to-stay-913ac8b58065)*
 
 -------------------------
-
-freeCodeCamp 
-
-I completed the Responsive Web Design course on freeCodeCamp.org. The course covers HTML and CSS.
-
-* *[Certificate and Projects](https://www.freecodecamp.org/certification/skma97/responsive-web-design)*
