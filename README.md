@@ -19,7 +19,7 @@ Here is the link to my Linkedin Profile: *[Linkedin](https://www.linkedin.com/in
 
 ### Professional Technical Writing at the University of Washington's Professional Continuning Education Program
 
-The works showcased below were created while taking apart of the Professional Technical Writing course at the University of Washington's Professional Continuning Education Program. The program started on January 2023 and ended in August 2023. Upon completion a certificate was issued for "Professional Technical Writing".
+The works showcased below were created while taking apart of the Professional Technical Writing course at the University of Washington's Professional Continuning Education Program. The program started on January 2023 and ended in August 2023. Upon completion a certificate was issued.
 
 *[How-to Guide](https://github.com/skym97/Portfolio/blob/main/How%20to%20Guide.pdf)*									
 
@@ -27,7 +27,7 @@ A how-to guide I wrote and created for my technical writing course on how to mig
 
 *[Quick Reference Guide](https://github.com/skym97/Portfolio/blob/main/Quick%20Reference%20Guide.pdf)*								
 
-A quick reference guide I was a part of with two other group members in my technical writing course. For this guide, I was the editor, while other group members wrote and designed the document. The deliverable covers AI in education. 
+For this quick reference guide, I was a part of with two other group members in my technical writing course. For this guide, I was the editor, while other group members wrote and designed the document. The deliverable covers AI in education. 
 
 *[Standard Operating Procedure](https://github.com/skym97/Portfolio/blob/main/Standard%20Operating%20Procedure.pdf)*
 
