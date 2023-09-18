@@ -8,14 +8,14 @@ Here is a link to my resume: *[Resume](https://github.com/skym97/Portfolio/blob/
 
 ## **Table of Contents**
 
-1. [University of Washington Professional Continuing Education Program in Professional Technical Writing](https://github.com/skym97/Portfolio/blob/main/README.md#university-of-washingtons-professional-continuning-education-program-in-professional-technical-writing)
+1. [Professional Technical Writing at the University of Washington's Professional Continuing Education Program](https://github.com/skym97/Portfolio/blob/main/README.md#university-of-washingtons-professional-continuning-education-program-in-professional-technical-writing)
 2. [Udemy](https://github.com/skym97/Portfolio/blob/main/README.md#udemy)
 3. [freeCodeCamp](https://github.com/skym97/Portfolio/blob/main/README.md#freecodecamp)
 4. [Content Writing Articles](https://github.com/skym97/Portfolio/blob/main/README.md#content-writing-articles)
 
 -------------------------
 
-### University of Washington's Professional Continuning Education Program in Professional Technical Writing 
+### Professional Technical Writing at the University of Washington's Professional Continuning Education Program
 
 The works showcased below were created while taking apart of the Professional Technical Writing course at the University of Washington's Professional Continuning Education Program. The program started on January 2023 and ended in August 2023. Upon completion a certificate was issued for "Professional Technical Writing".
 
