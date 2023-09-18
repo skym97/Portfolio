@@ -4,6 +4,8 @@ Note: All hyperlinks are *italicized*
 
 Here is a link to my resume: *[Resume](https://github.com/skym97/Portfolio/blob/main/Resume.pdf)*
 
+Here is the link to my Linkedin Profile: *[Linkedin](https://www.linkedin.com/in/andysul/)*
+
 -------------------------
 
 ## **Table of Contents**
