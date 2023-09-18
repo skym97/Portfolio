@@ -9,9 +9,9 @@ Here is a link to my resume: *[Resume](https://github.com/skym97/Portfolio/blob/
 ## **Table of Contents**
 
 1. [University of Washington Professional Continuing Education Program in Professional Technical Writing](https://github.com/skym97/Portfolio/blob/main/README.md#university-of-washingtons-professional-continuning-education-program-in-professional-technical-writing)
-2. [Udemy](### Udemy)
-3. [freeCodeCamp](### freeCodeCamp)
-4. [Content Writing Articles](### Content Writing Articles)
+2. [Udemy](https://github.com/skym97/Portfolio/blob/main/README.md#udemy)
+3. [freeCodeCamp](https://github.com/skym97/Portfolio/blob/main/README.md#freecodecamp)
+4. [Content Writing Articles](https://github.com/skym97/Portfolio/blob/main/README.md#content-writing-articles)
 
 -------------------------
 
