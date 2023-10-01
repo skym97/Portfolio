@@ -51,7 +51,7 @@ I completed a technical writing course on Udemy called Learn API Technical Writi
 
 * *[XML Documentation Exercise](https://github.com/skym97/Portfolio/blob/main/XML%20Documentation%20Exercise.pdf)*
 
-I also completed a course on Udemy called Learn API Technical Writing 2: REST for Writers (also by Peter Gruenbaum, and his 2nd course in the series). The documentation exercises shown below are a part of the course. 
+I also completed a second course on Udemy called Learn API Technical Writing 2: REST for Writers (also by Peter Gruenbaum, and his 2nd course in the series). The documentation exercises shown below are a part of the course. 
 
 Note: Exercise #4 is the most "comprehensive" exercise of the bunch.
 
