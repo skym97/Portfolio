@@ -57,11 +57,11 @@ Note: Exercise #4 is the most "comprehensive" exercise of the bunch.
 
 * *[REST Documentaion Exercise #1](https://github.com/skym97/Portfolio/blob/main/REST%20API%20Documentation%20Exercise%20%231.pdf)*
 
-* *[Rest Documentation Exercise #2](https://github.com/skym97/Portfolio/blob/main/REST%20API%20Documentation%20Exercise%20%232.pdf)*
+* *[REST Documentation Exercise #2](https://github.com/skym97/Portfolio/blob/main/REST%20API%20Documentation%20Exercise%20%232.pdf)*
 
 * *[REST Documentation Exercise #3](https://github.com/skym97/Portfolio/blob/main/REST%20API%20Documentation%20Exercise%20%233.pdf)*
 
-* *[Rest Documentation Exercise #4](https://github.com/skym97/Portfolio/blob/main/REST%20API%20Documentation%20Exercise%20%234.pdf)*
+* *[REST Documentation Exercise #4](https://github.com/skym97/Portfolio/blob/main/REST%20API%20Documentation%20Exercise%20%234.pdf)*
 
 -------------------------
 
