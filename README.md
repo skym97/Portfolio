@@ -13,8 +13,7 @@ Here is the link to my Linkedin Profile: *[Linkedin](https://www.linkedin.com/in
 1. Professional Technical Writing at the University of Washington's Professional Continuing Education Program
 2. Udemy
 3. freeCodeCamp
-4. Content Writing Articles
-
+   
 -------------------------
 
 ### Professional Technical Writing at the University of Washington's Professional Continuning Education Program
@@ -70,17 +69,5 @@ Note: Exercise #4 is the most "comprehensive" exercise of the bunch.
 I completed the Responsive Web Design course on freeCodeCamp.org. The course covers HTML and CSS.
 
 * *[Certificate and Projects](https://www.freecodecamp.org/certification/skma97/responsive-web-design)*
-
--------------------------
-
-### Content Writing Articles								
-
-Three content pieces I created and published on Medium that I did for leisure. The pieces cover Rotten Tomatoes, Olivia Rodrigo’s “driver’s license” and how it reflects culture, and the growth of sports gambling advertising. 
-
-* *["The Mischaracterization of Rotten Tomatoes"](https://asul.medium.com/the-mischaracterization-of-rotten-tomatoes-3918f1669a29)*
-
-* *["'drivers license' Hitting #1 Surprised Me"](https://asul.medium.com/why-drivers-license-hitting-1-surprised-me-d872c23f5d4)*
-
-* *["Sports Betting Advertisements Are Growing and Here to Stay"](https://asul.medium.com/sports-betting-advertisements-are-growing-and-here-to-stay-913ac8b58065)*
 
 -------------------------
