@@ -45,7 +45,7 @@ A knowledge base article that I wrote in a group with 5 other members where we c
 
 ### XML Writing
 
-I completed a XML writing certificate course at Technical Writer HQ. At the end of the course, a capstone project was required to complete the course. For my capstone project, using Oxygen XML Editor (while writing in DITA XML) I created a generic user manual for an "Example Software" (a fictional company) on how to navigate account settings and profile information.
+I completed a XML writing certificate course at Technical Writer HQ. At the end of the course, a capstone project was required to complete the class. For my capstone project, I used Oxygen XML Editor (while writing in DITA XML) I created a generic user manual for an "Example Software" (a fictional company) on how to navigate account settings and profile information.
 
 * *[XML Capstone Project](https://github.com/skym97/Portfolio/blob/7355292a112554f753a02b91d6fea93085941e58/XML%20Writing%20Capstone%20Project.pdf)*
 
