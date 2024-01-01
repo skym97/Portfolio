@@ -11,8 +11,9 @@ Here is the link to my Linkedin Profile: *[Linkedin](https://www.linkedin.com/in
 ## **Table of Contents**
 
 1. Professional Technical Writing at the University of Washington's Professional Continuing Education Program
-2. Udemy
-3. freeCodeCamp
+2. XML Writing
+3. Udemy
+4. freeCodeCamp
    
 -------------------------
 
@@ -39,6 +40,14 @@ A release note that I wrote for the same fictional company used in the previous 
 A knowledge base article that I wrote in a group with 5 other members where we created a knowledge base for aspiring technical writers. For this project we created a persona to write these articles for and put thogether 6 different articles to be displayed on this website. For my knowledge base article, I wrote about creating release notes.
 
 * *[Knowledge Base Article](https://vandevan4.wixsite.com/tech-writing/creating-release-notes)*
+
+-------------------------
+
+### XML Writing
+
+I completed a XML writing certificate course at Technical Writer HQ. At the end of the course, a capstone project was required to complete the course. For my capstone project, using Oxygen XML Editor (while writing in DITA XML) I created a generic user manual for an "Example Software" (a fictional company) on how to navigate account settings and profile information.
+
+* *[XML Capstone Project]
 
 -------------------------
 
