@@ -8,9 +8,9 @@ Here is the link to my Linkedin Profile: *[Linkedin](https://www.linkedin.com/in
 
 ## **Table of Contents**
 
-1. Professional Technical Writing at the University of Washington's Professional Continuing Education Program
-2. XML Writing
-3. Udemy
+1. API Documentation at the University of Washington's Professional Continuing Education Program
+2. Professional Technical Writing at the University of Washington's Professional Continuing Education Program
+3. XML Writing
 4. freeCodeCamp
    
 -------------------------
