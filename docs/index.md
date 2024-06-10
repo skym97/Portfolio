@@ -33,7 +33,7 @@ Here is the link to my Linkedin Profile: *[Linkedin](https://www.linkedin.com/in
 
 ### XML Writing
 
-* [Capstone Project](xml/xml_writing.md)
+* *[Capstone Project](XML/xml_writing.md)*
 
 -------------------------
 
