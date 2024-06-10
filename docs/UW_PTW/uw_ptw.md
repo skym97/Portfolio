@@ -22,7 +22,7 @@ A standard operating procedure for a fictional tech company that was written by 
 
 A release note that I wrote for the same fictional company used in the previous manual/SOP (listed above) for my technical writing course. The release note covers new features and bug fixes to the fictional product defect software used in the SOP. My other group members served as the editor and the production designer. 
 
-* *[Release Notes](files/release_notes.md)*
+* *[Release Notes](files/release_notes.pdf)*
 
 A knowledge base article that I wrote in a group with 5 other members where we created a knowledge base for aspiring technical writers. For this project we created a persona to write these articles for and put thogether 6 different articles to be displayed on this website. For my knowledge base article, I wrote about creating release notes.
 
