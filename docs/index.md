@@ -19,6 +19,8 @@ Here is the link to my Linkedin Profile: *[Linkedin](https://www.linkedin.com/in
 
 * *[Portfolio Project](insert hyperlink here)*
 
+-------------------------
+
 ### Professional Technical Writing at the University of Washington's Professional Continuning Education Program
 
 * *[Portfolio Project](UW_PTW/UW_PTW.md)*
