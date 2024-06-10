@@ -21,13 +21,13 @@ Here is the link to my Linkedin Profile: *[Linkedin](https://www.linkedin.com/in
 
 ### API Documentation at the University of Washington's Professional Continuing Education Program
 
-* *[Portfolio Project](insert hyperlink here)*
+* *[Portfolio Project](UW_API/uw_api.md)*
 
 -------------------------
 
 ### Professional Technical Writing at the University of Washington's Professional Continuning Education Program
 
-* *[Portfolio Project](UW_PTW/UW_PTW.md)*
+* *[Portfolio Project](UW_PTW/uw_ptw.md)*
 
 -------------------------
 
