@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # Andy Sul's Technical Writing Portfolio
 
 Note: All hyperlinks are *italicized*
@@ -29,9 +33,7 @@ Here is the link to my Linkedin Profile: *[Linkedin](https://www.linkedin.com/in
 
 ### XML Writing
 
-I completed a XML writing certificate course at Technical Writer HQ. At the end of the course, a capstone project was required to complete the class. For my capstone project, I used Oxygen XML Editor (while writing in DITA XML) I created a generic user manual for an "Example Software" (a fictional company) on how to navigate account settings and profile information.
-
-* *[XML Capstone Project](https://github.com/skym97/Portfolio/blob/main/docs/XML%20Writing%20Capstone%20Project.pdf)*
+* [Capstone Project](xml/xml_writing.md)
 
 -------------------------
 
