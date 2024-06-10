@@ -49,28 +49,6 @@ I completed a XML writing certificate course at Technical Writer HQ. At the end 
 
 -------------------------
 
-### Udemy
-
-I completed a technical writing course on Udemy called Learn API Technical Writing: JSON and XML for Writers (by Peter Gruenbaum). The two documentation exercises that are a part of the program are showcased below. 
-
-* *[JSON Documentation Exercise](https://github.com/skym97/Portfolio/blob/main/docs/JSON%20Documentation%20Exercise.pdf)*
-
-* *[XML Documentation Exercise](https://github.com/skym97/Portfolio/blob/main/docs/XML%20Documentation%20Exercise.pdf)*
-
-I also completed a second course on Udemy called Learn API Technical Writing 2: REST for Writers (also by Peter Gruenbaum, and his 2nd course in the series). The documentation exercises shown below are a part of the course. 
-
-Note: Exercise #4 is the most "comprehensive" exercise of the bunch.
-
-* *[REST Documentaion Exercise #1](https://github.com/skym97/Portfolio/blob/main/docs/REST%20API%20Documentation%20Exercise%20%231.pdf)*
-
-* *[REST Documentation Exercise #2](https://github.com/skym97/Portfolio/blob/main/docs/REST%20API%20Documentation%20Exercise%20%232.pdf)*
-
-* *[REST Documentation Exercise #3](https://github.com/skym97/Portfolio/blob/main/docs/REST%20API%20Documentation%20Exercise%20%233.pdf)*
-
-* *[REST Documentation Exercise #4](https://github.com/skym97/Portfolio/blob/main/docs/REST%20API%20Documentation%20Exercise%20%234.pdf)*
-
--------------------------
-
 ### freeCodeCamp 
 
 I completed the Responsive Web Design course on freeCodeCamp.org. The course covers HTML and CSS.
