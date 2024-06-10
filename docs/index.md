@@ -10,6 +10,14 @@ Here is the link to my Linkedin Profile: *[Linkedin](https://www.linkedin.com/in
 
 -------------------------
 
+## Overview
+
+Learn more about my portfolio by clicking on the hyperlink below.
+
+* *[Overview](docs/overview.md)*  
+
+-------------------------
+
 ## **Table of Contents**
 
 1. API Documentation at the University of Washington's Professional Continuing Education Program
