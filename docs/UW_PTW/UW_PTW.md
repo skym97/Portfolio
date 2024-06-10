@@ -2,7 +2,11 @@
 layout: page
 ---
 
-# Professional Technical Writing Portfolio
+# Professional Technical Writing at the University of Washington's Professional Continuning Education Program
+
+The works showcased below were created while taking apart of the Professional Technical Writing course at the University of Washington's Professional Continuning Education Program. The program started on January 2023 and ended in August 2023. Upon completion a certificate was issued.
+
+-------------------------
 
 A how-to guide I wrote and created for my technical writing course on how to migrate notes from the Samsung Notes App.
 
@@ -23,3 +27,5 @@ A release note that I wrote for the same fictional company used in the previous 
 A knowledge base article that I wrote in a group with 5 other members where we created a knowledge base for aspiring technical writers. For this project we created a persona to write these articles for and put thogether 6 different articles to be displayed on this website. For my knowledge base article, I wrote about creating release notes.
 
 * *[Knowledge Base Article](https://vandevan4.wixsite.com/tech-writing/creating-release-notes)*
+
+-------------------------
