@@ -45,8 +45,8 @@ To learn more about my portfolio, refer to the `Overview`.
 
 ### freeCodeCamp 
 
-I completed the Responsive Web Design course on freeCodeCamp.org. The course covers HTML and CSS.
+#### Responsive Web Design (HTML and CSS) 
 
-* [Certificate and Projects](https://www.freecodecamp.org/certification/skma97/responsive-web-design)
+* [Certificate and Projects](https://www.freecodecamp.org/certification/skym97/responsive-web-design)
 
 -------------------------
