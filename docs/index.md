@@ -4,9 +4,7 @@ layout: page
 
 # Andy Sul's Technical Writing Portfolio
 
-Note: All hyperlinks are *italicized*
-
-*[Linkedin Profile](https://www.linkedin.com/in/andysul/)*
+* [Linkedin Profile](https://www.linkedin.com/in/andysul/)
 
 -------------------------
 
@@ -14,7 +12,7 @@ Note: All hyperlinks are *italicized*
 
 To learn more about my portfolio, refer to the `Overview`.
 
-* *[Overview](docs/overview.md)*  
+* [Overview](docs/overview.md)  
 
 -------------------------
 
@@ -29,19 +27,19 @@ To learn more about my portfolio, refer to the `Overview`.
 
 ### API Documentation at the University of Washington's Professional Continuing Education Program
 
-* *[Portfolio Project](UW_API/uw_api.md)*
+* [Portfolio Project](UW_API/uw_api.md)
 
 -------------------------
 
 ### Professional Technical Writing at the University of Washington's Professional Continuning Education Program
 
-* *[Portfolio Project](UW_PTW/uw_ptw.md)*
+* [Portfolio Projects](UW_PTW/uw_ptw.md)
 
 -------------------------
 
 ### XML Writing
 
-* *[Capstone Project](XML/xml_writing.md)*
+* [Capstone Project](XML/xml_writing.md)
 
 -------------------------
 
@@ -49,6 +47,6 @@ To learn more about my portfolio, refer to the `Overview`.
 
 I completed the Responsive Web Design course on freeCodeCamp.org. The course covers HTML and CSS.
 
-* *[Certificate and Projects](https://www.freecodecamp.org/certification/skma97/responsive-web-design)*
+* [Certificate and Projects](https://www.freecodecamp.org/certification/skma97/responsive-web-design)
 
 -------------------------
