@@ -4,7 +4,7 @@ layout: page
 
 # Professional Technical Writing at the University of Washington's Professional Continuning Education Program
 
-Through my time in this program, I partcipated in multiple different projects. The scope of each project varied from projet to project. 
+Throughout my time in this program, I partcipated in multiple different projects. The scope of each project varied from projet to project. 
 
 -------------------------
 
@@ -12,15 +12,15 @@ A how-to guide I wrote and created on how to migrate notes from the Samsung Note
 
 * *[How-to Guide](files/how_to_guide.pdf)*									
 
-For this quick reference guide, I worked with two other group members. For this guide, I was the editor, while other group members wrote and designed the document. The deliverable covers AI in education. 
+For this quick reference guide, I worked with two other group members. I continued to work with these two group members not just for this quick reference guide, but for the standard operating procedure, and release notes as well. For this guide, I served as the editor, while the other group members wrote and designed the document. The deliverable covers AI in education. 
 
 * *[Quick Reference Guide](files/quick_reference_guide.pdf)*	
 
-A standard operating procedure for a fictional tech company that was written by one of my group members. I was the production designer for this project as I created the actual document, while others edited and created the content for this project. Additionally, I was in charge of the look and layout of the manual. The fictional company logo was something I created as well. The SOP covers product defect software. 
+A standard operating procedure for a fictional tech company that was written by one of my group members. I was the designer for this project as I created the actual document, while another member edited the document. Additionally, I was in charge of the look and layout of the manual. The fictional company logo was something I created as well. The SOP covers product defect software. 
 
 * *[Standard Operating Procedure](files/standard_operating_procedure.pdf)*
 
-A release note that I wrote for the same fictional company used in the standard operating procedure. The release note covers new features and bug fixes to the fictional product defect software used in the SOP. My other group members served as the editor and the production designer. 
+A release note that I wrote for the same fictional company used in the standard operating procedure. My other group members served as the editor and the production designer. The release note covers new features and bug fixes to the fictional product defect software used in the SOP. 
 
 * *[Release Notes](files/release_notes.pdf)*
 
