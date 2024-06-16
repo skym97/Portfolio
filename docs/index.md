@@ -12,7 +12,7 @@ Here is the link to my Linkedin Profile: *[Linkedin](https://www.linkedin.com/in
 
 ## Overview
 
-Learn more about my portfolio by clicking on the hyperlink below.
+To learn moreTo learn more my portfolio, refer to the `Overview`.
 
 * *[Overview](docs/overview.md)*  
 
