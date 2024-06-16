@@ -12,7 +12,7 @@ Note: All hyperlinks are *italicized*
 
 ## Overview
 
-To learn moreTo learn more my portfolio, refer to the `Overview`.
+To learn more about my portfolio, refer to the `Overview`.
 
 * *[Overview](docs/overview.md)*  
 
