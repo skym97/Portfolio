@@ -12,7 +12,7 @@ layout: page
 
 To learn more about my portfolio, refer to the `Overview`.
 
-* [Overview](docs/overview.md)  
+* [Overview](overview.md)  
 
 -------------------------
 
