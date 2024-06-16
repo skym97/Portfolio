@@ -8,4 +8,4 @@ For this class, I worked on a portfolio project where I had to write documentati
 
 * *[Portfolio Project](https://skym97.github.io/watch_more_movies/)*
 
-(I also served as a SME for another project as well (but did not create documentation for). You can see that project by *[clicking here](https://conjaytech.github.io/visual-chronicle/)*.)
+Additionally, I also served as a SME for another project (but did not create documentation for). You can see that project by *[clicking here](https://conjaytech.github.io/visual-chronicle/)*.
