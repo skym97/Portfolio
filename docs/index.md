@@ -6,7 +6,7 @@ layout: page
 
 Note: All hyperlinks are *italicized*
 
-Here is the link to my Linkedin Profile: *[Linkedin](https://www.linkedin.com/in/andysul/)*
+*[Linkedin Profile](https://www.linkedin.com/in/andysul/)*
 
 -------------------------
 
