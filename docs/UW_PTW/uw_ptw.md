@@ -4,23 +4,23 @@ layout: page
 
 # Professional Technical Writing at the University of Washington's Professional Continuning Education Program
 
-The works showcased below were created while taking apart of the Professional Technical Writing course at the University of Washington's Professional Continuning Education Program. The program started on January 2023 and ended in August 2023. Upon completion a certificate was issued.
+Through my time in this program, I partcipated in multiple different projects. The scope of each project varied from projet to project. 
 
 -------------------------
 
-A how-to guide I wrote and created for my technical writing course on how to migrate notes from the Samsung Notes App.
+A how-to guide I wrote and created on how to migrate notes from the Samsung Notes App.
 
 * *[How-to Guide](files/how_to_guide.pdf)*									
 
-For this quick reference guide, I was a part of with two other group members in my technical writing course. For this guide, I was the editor, while other group members wrote and designed the document. The deliverable covers AI in education. 
+For this quick reference guide, I worked with two other group members. For this guide, I was the editor, while other group members wrote and designed the document. The deliverable covers AI in education. 
 
 * *[Quick Reference Guide](files/quick_reference_guide.pdf)*	
 
-A standard operating procedure for a fictional tech company that was written by one of my group members in my technical writing course. I was the production designer for this project as I created the actual document. Additionally, I was in charge of the look and layout of the manual. The fictional company logo was something I created as well. The SOP covers product defect software. Another group member served as the editor.
+A standard operating procedure for a fictional tech company that was written by one of my group members. I was the production designer for this project as I created the actual document, while others edited and created the content for this project. Additionally, I was in charge of the look and layout of the manual. The fictional company logo was something I created as well. The SOP covers product defect software. 
 
 * *[Standard Operating Procedure](files/standard_operating_procedure.pdf)*
 
-A release note that I wrote for the same fictional company used in the previous manual/SOP (listed above) for my technical writing course. The release note covers new features and bug fixes to the fictional product defect software used in the SOP. My other group members served as the editor and the production designer. 
+A release note that I wrote for the same fictional company used in the standard operating procedure. The release note covers new features and bug fixes to the fictional product defect software used in the SOP. My other group members served as the editor and the production designer. 
 
 * *[Release Notes](files/release_notes.pdf)*
 
