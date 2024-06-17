@@ -12,7 +12,9 @@ A how-to guide I wrote and created on how to migrate notes from the Samsung Note
 
 * *[How-to Guide](files/how_to_guide.pdf)*									
 
-For this quick reference guide, I worked with two other group members. I continued to work with these two group members not just for this quick reference guide, but for the standard operating procedure, and release notes as well. For this guide, I served as the editor, while the other group members wrote and designed the document. The deliverable covers AI in education. 
+For this quick reference guide, I worked with two other group members. For this guide, I served as the editor, while the other group members wrote and designed the document. The deliverable covers AI in education. 
+
+Note: The group members I worked with for this project I would go on to work with for the Quick Reference Guide and the Standard Operating Procedure as well. 
 
 * *[Quick Reference Guide](files/quick_reference_guide.pdf)*	
 
