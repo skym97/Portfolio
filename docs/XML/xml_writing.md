@@ -4,10 +4,12 @@ layout: page
 
 # XML Writing
 
-I completed a XML writing certificate course at Technical Writer HQ. 
+I completed an XML writing certificate course from Technical Writer HQ.
 
-At the end of the course, a capstone project was required to complete the class. 
+As part of the course requirements, I undertook a capstone project. 
 
-For my capstone project, I used Oxygen XML Editor (while writing in DITA XML) I created a generic user manual for an "Example Software" (a fictional company) on how to navigate account settings and profile information.
+For this project, I used Oxygen XML Editor to create a generic user manual for 'Example Software,' a fictional company. 
 
-* *[XML Capstone Project](xml_capstone.pdf)*
+Written in DITA XML, the manual provides instructions on how to navigate account settings and profile information.
+
+* [XML Capstone Project](xml_capstone.pdf)
