@@ -10,9 +10,19 @@ layout: page
 
 ## Overview
 
-To learn more about my portfolio, refer to the `Overview`.
+Welcome to my portfolio!
 
-* [Overview](overview.md)  
+This is my page where I showcase my technical writing portfolio from various different classes and certificates I have completed.
+
+Most of the work you'll see in my portfolio come from two different classes I took from the University of Washington's Professional Continuing Education program tailored specifically for technical writing.
+
+-------------------------
+
+## About Me
+
+I'm currently a technical writing working in the public sector. In addition to technical writing, I also have a background in retail, sales, and customer support. 
+
+I hope to learn and gain the skills that are necessary and in demand to build a long term career for myself in this field. 
 
 -------------------------
 
