@@ -1,7 +1,3 @@
----
-layout: page
----
-
 # XML Writing
 
 I completed an XML writing certificate course from Technical Writer HQ.
