@@ -1,7 +1,3 @@
----
-layout: page
----
-
 # API Documentation at the University of Washington's Professional Continuning Education Program
 
 For this class, I worked on a portfolio project where I had to write documentation for a mock API service created by another classmate that acted as the SME. 
