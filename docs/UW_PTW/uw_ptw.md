@@ -1,7 +1,3 @@
----
-layout: page
----
-
 # Professional Technical Writing at the University of Washington's Professional Continuning Education Program
 
 Throughout my time in this program, I partcipated in multiple different projects. The scope of each project varied from projet to project. 
