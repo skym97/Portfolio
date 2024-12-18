@@ -1,6 +1,4 @@
-# Andy Sul's Technical Writing Portfolio
-
-* [Linkedin Profile](https://www.linkedin.com/in/andysul/)
+# Technical Writing Portfolio
 
 -------------------------
 
