@@ -2,35 +2,25 @@
 
 -------------------------
 
-## Overview
-
-Welcome to my portfolio!
-
-This is my page where I showcase my technical writing portfolio from various different classes and certificates I have completed.
-
-Most of the work you'll see in my portfolio come from three different classes I took through the University of Washington's Professional Continuing Education program. 
-Two of the three courses are tailored specifically for technical writing.
-
--------------------------
-
 ## About Me
 
-I'm currently a technical writer working for a training company that specializes in the public sector. 
+I am a technical writer currently working for a training company specializing in the public sector. My role has provided me with valuable experience in creating clear, detailed documentation for diverse audiences.
 
-In addition to technical writing, I also have a background in retail, sales, and customer support. 
+In addition to my technical writing experience, I have a background in retail, sales, and customer support, which has strengthened my ability to communicate effectively and adapt to different user needs.
 
-I hope to learn and gain the skills that are necessary and in demand to build a long term career for myself in this field. 
+I am passionate about continuing to build my skills and knowledge in technical writing, with a goal of establishing a long-term career in this field.
 
 -------------------------
 
-## **Table of Contents**
+## Overview
 
-1. [API Documentation at the University of Washington's Professional Continuing Education Program](#api-documentation-at-the-university-of-washingtons-professional-continuing-education-program)
-2. [Documentation for Fundamentals of Programming (Python) at the University of Washington's Professional Continuing Education Program](#documentation-for-fundamentals-of-programming-python-at-the-university-of-washingtons-professional-continuing-education-program)
-3. [Professional Technical Writing at the University of Washington's Professional Continuing Education Program](#professional-technical-writing-at-the-university-of-washingtons-professional-continuing-education-program)
-4. [XML Writing](#xml-writing)
-5. [freeCodeCamp](#freecodecamp)
-   
+This portfolio showcases my technical writing work from various classes and certificates I have completed.
+
+Most of the projects featured in my portfolio come from three courses I completed through the University of Washington's Professional Continuing Education program. 
+Two of these courses are specifically focused on technical writing.
+
+Due to my current role in the public sector, I am unable to share professional writing samples due to confidentiality agreements (NDA). However, the work presented here demonstrates my technical writing skills and my commitment to delivering clear, effective documentation.
+
 -------------------------
 
 ### API Documentation at the University of Washington's Professional Continuing Education Program
