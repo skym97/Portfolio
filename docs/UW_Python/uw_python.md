@@ -6,5 +6,5 @@ Although the course itself didn’t include a documentation component, I took th
 
 You can view the documentation I created for this project through the link below:
 
-* [Final Project Documentation](https://skym97.github.io/IntroToProg-Python-Final/)
+* [View the Final Project Documentation](https://skym97.github.io/IntroToProg-Python-Final/)
 
