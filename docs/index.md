@@ -41,12 +41,6 @@ Due to my current role in the public sector, I am unable to share professional w
 
 -------------------------
 
-### XML Writing
-
-* [Capstone Project](XML/xml_writing.md)
-
--------------------------
-
 ### freeCodeCamp 
 
 #### Responsive Web Design (HTML and CSS) 
