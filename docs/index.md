@@ -8,7 +8,8 @@ Welcome to my portfolio!
 
 This is my page where I showcase my technical writing portfolio from various different classes and certificates I have completed.
 
-Most of the work you'll see in my portfolio come from two different classes I took through the University of Washington's Professional Continuing Education program tailored specifically for technical writing.
+Most of the work you'll see in my portfolio come from three different classes I took through the University of Washington's Professional Continuing Education program. 
+Two of the three courses are tailored specifically for technical writing.
 
 -------------------------
 
