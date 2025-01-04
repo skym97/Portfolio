@@ -31,7 +31,7 @@ Due to my current role in the public sector, I am unable to share professional w
 
 ### Documentation for Fundamentals of Programming (Python) at the University of Washington's Professional Continuing Education Program
 
-* [Final Project Documentation](https://skym97.github.io/IntroToProg-Python-Final/)
+* [Final Project Documentation](UW_Python/uw_python.md)
 
 -------------------------
 
