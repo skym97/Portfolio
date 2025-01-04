@@ -27,7 +27,7 @@ I hope to learn and gain the skills that are necessary and in demand to build a 
 
 1. [API Documentation at the University of Washington's Professional Continuing Education Program](#api-documentation-at-the-university-of-washingtons-professional-continuing-education-program)
 2. [Documentation for Fundamentals of Programming (Python) at the University of Washington's Professional Continuing Education Program](#documentation-for-fundamentals-of-programming-python-at-the-university-of-washingtons-professional-continuing-education-program)
-3. [Professional Technical Writing at the University of Washington's Professional Continuning Education Program](#professional-technical-writing-at-the-university-of-washingtons-professional-continuing-education-program)
+3. [Professional Technical Writing at the University of Washington's Professional Continuning Education Program](https://github.com/skym97/Portfolio/blob/main/docs/index.md#professional-technical-writing-at-the-university-of-washingtons-professional-continuning-education-program)
 4. [XML Writing](#xml-writing)
 5. [freeCodeCamp](#freecodecamp)
    
