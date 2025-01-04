@@ -6,7 +6,7 @@ The API and its JSON database were developed by a classmate who acted as the Sub
 
 After receiving the database file, I developed documentation for the API, collaborating with the SME as needed to ensure accuracy and completeness.
 
-* [Portfolio Project](https://skym97.github.io/watch_more_movies/)
+* [View the Portfolio Project](https://skym97.github.io/watch_more_movies/)
 
 In addition to creating documentation, I also served as the SME for another project, where I provided the database file but did not write documentation.
 
