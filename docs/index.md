@@ -14,7 +14,9 @@ Most of the work you'll see in my portfolio come from two different classes I to
 
 ## About Me
 
-I'm currently a technical writer working for a training company that specializes in the public sector. In addition to technical writing, I also have a background in retail, sales, and customer support. 
+I'm currently a technical writer working for a training company that specializes in the public sector. 
+
+In addition to technical writing, I also have a background in retail, sales, and customer support. 
 
 I hope to learn and gain the skills that are necessary and in demand to build a long term career for myself in this field. 
 
