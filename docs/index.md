@@ -39,7 +39,7 @@ I hope to learn and gain the skills that are necessary and in demand to build a 
 
 -------------------------
 
-###  Documentation for Fundamentals of Programming (Python) at the University of Washington's Professional Continuing Education Program
+### Documentation for Fundamentals of Programming (Python) at the University of Washington's Professional Continuing Education Program
 
 * [Final Project Documentation](https://skym97.github.io/IntroToProg-Python-Final/)
 
