@@ -25,10 +25,10 @@ I hope to learn and gain the skills that are necessary and in demand to build a 
 
 ## **Table of Contents**
 
-1. API Documentation at the University of Washington's Professional Continuing Education Program
-2. Documentation for Fundamentals of Programming (Python) at the University of Washington's Professional Continuing Education Program
-3. Professional Technical Writing at the University of Washington's Professional Continuing Education Program
-4. XML Writing
+1. [API Documentation at the University of Washington's Professional Continuing Education Program](#API_documentation_at_the_university_of_washington's_professional_continuing_education_program)
+2. [Documentation for Fundamentals of Programming (Python) at the University of Washington's Professional Continuing Education Program](#documentation_for_fundamentals_of_programming_(Python)_at_the_university_of_washington's_professional_continuing_education_program)
+3. [Professional Technical Writing at the University of Washington's Professional Continuing Education Program](#professional_technical_writing_at_the_university_of_washington's_professional_continuning_education_program)
+4. [XML Writing](#XML_writing)
 5. [freeCodeCamp](#freeCodeCamp)
    
 -------------------------
