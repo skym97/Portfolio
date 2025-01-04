@@ -1,13 +1,13 @@
 # API Documentation at the University of Washington's Professional Continuning Education Program
 
-For this class, I worked on a portfolio project where I had to write documentation for a mock API service created by another classmate that acted as the SME. 
+In this class, I worked on a portfolio project where I created documentation for a mock API service. 
 
-The classmate was responsible for creating the JSON database the API would be sourced from. 
+The API and its JSON database were developed by a classmate who acted as the Subject Matter Expert (SME).
 
-Once the database file was provided, I went onto create documentation around that file while consulting with the SME from time to time.
+After receiving the database file, I developed documentation for the API, collaborating with the SME as needed to ensure accuracy and completeness.
 
 * [Portfolio Project](https://skym97.github.io/watch_more_movies/)
 
-Additionally, I also served as a SME for another project (but did not create documentation for). 
+In addition to creating documentation, I also served as the SME for another project, where I provided the database file but did not write documentation.
 
-You can see that project by [clicking here](https://conjaytech.github.io/visual-chronicle/).
+* [View the SME Project](https://conjaytech.github.io/visual-chronicle/)
