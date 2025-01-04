@@ -2,10 +2,6 @@
 
 -------------------------
 
-[Linkedin](https://www.linkedin.com/in/andysul/)
-
--------------------------
-
 ## Overview
 
 Welcome to my portfolio!
