@@ -40,11 +40,3 @@ Due to my current role in the public sector, I am unable to share professional w
 * [Portfolio Projects](UW_PTW/uw_ptw.md)
 
 -------------------------
-
-### freeCodeCamp 
-
-#### Responsive Web Design (HTML and CSS) 
-
-* [Certificate and Projects](https://www.freecodecamp.org/certification/skym97/responsive-web-design)
-
--------------------------
