@@ -40,3 +40,9 @@ Due to my current role in the public sector, I am unable to share professional w
 * [Portfolio Projects](UW_PTW/uw_ptw.md)
 
 -------------------------
+
+### XML Writing Course from Technical Writer HQ
+
+* [XML Project](XML/xml.md)
+
+-------------------------
