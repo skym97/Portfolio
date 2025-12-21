@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a technical writer currently working for a training company specializing in the public sector. My role has provided me with valuable experience in creating clear, detailed documentation for diverse audiences.
+I am a technical writer that previously worked for a training company specializing in the public sector. That role provided me with valuable experience in creating clear, detailed documentation for diverse audiences.
 
 In addition to my technical writing experience, I have a background in retail, sales, and customer support, which has strengthened my ability to communicate effectively and adapt to different user needs.
 
@@ -19,7 +19,7 @@ This portfolio showcases my technical writing work from various classes and cert
 Most of the projects featured in my portfolio come from three courses I completed through the University of Washington's Professional Continuing Education program. 
 Two of these courses are specifically focused on technical writing.
 
-Due to my current role in the public sector, I am unable to share professional writing samples due to confidentiality agreements (NDA). However, the work presented here demonstrates my technical writing skills and my commitment to delivering clear, effective documentation.
+Due to my previous role being in the public sector, I am unable to share professional writing samples due to confidentiality agreements (NDA). However, the work presented here demonstrates my technical writing skills and my commitment to delivering clear, effective documentation.
 
 -------------------------
 
